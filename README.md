@@ -38,7 +38,7 @@ Compile the cuda dependencies using following simple commands:
 
 ```
 cd lib
-python setup.py build develop
+python3 setup.py build develop
 ```
 
 All the necessary C modules has been compiled through **setup.py**, such as NMS, ROI\_Pooling, ROI\_Align, ROI\_Crop
