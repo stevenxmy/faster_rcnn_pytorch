@@ -27,7 +27,7 @@ Python modules are as follow:
 - cython
 - cffi
 - opencv-python
-- scipy
+- scipy==1.2.0
 - msgpack
 - easydict
 - matplotlib
