@@ -7,4 +7,9 @@ cd faster-rcnn.pytorch && mkdir data
 # Dataset
 MSCOCO and VOC2012
 
-#
+# Pretrained Model
+vgg16 and resnet101
+
+# Compilation
+Install all the python dependencies using pip:
+`pip install -r requirements.txt`
